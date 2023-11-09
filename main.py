@@ -44,7 +44,6 @@ def speed_distance_time():
     print(f"The desired {calc_dec} will be: {calc} {units}")
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # car_discount()
     speed_distance_time()
