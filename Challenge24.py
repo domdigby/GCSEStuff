@@ -10,7 +10,7 @@ def line_draw(num_space, num_x):
     :param num_x: The number of Xs to be displayed
     :return: A string of spaces then Xs
     """
-    line = chr(32) * num_space + chr(88) * num_x
+    line = " " * num_space + "X" * num_x
     return line
 
 
