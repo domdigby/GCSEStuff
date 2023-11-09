@@ -74,7 +74,7 @@ def area_calculation():
 
     print(f"{lawn_area:.2f} m2 of turf is required for a lawn {lawn_length} m by {lawn_width} m, with a flower bed of {bed_radius} m radius")
 
-
+# Only run if in main
 if __name__ == '__main__':
     # car_discount()
     #speed_distance_time()
