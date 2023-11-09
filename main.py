@@ -76,6 +76,6 @@ def area_calculation():
 
 # Only run if in main
 if __name__ == '__main__':
-    # car_discount()
-    #speed_distance_time()
-    area_calculation()
+    car_discount()
+    # speed_distance_time()
+    # area_calculation()
